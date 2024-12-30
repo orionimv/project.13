@@ -6,7 +6,7 @@ body{
     background: #444;
     justify-content: center;
     align-items: center;
-    font-family: arial;
+    font-family: 'Montserrat', sans-serif;
 }
 
 .container{
@@ -114,5 +114,5 @@ body{
 .container .card .face.face2 .content a:hover{
     background: #333 ;
     color: whitesmoke;
-    box-shadow: inset 0px 0px 10px rgba(0,0,0,0.5);
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.5);
 }
